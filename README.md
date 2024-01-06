@@ -2,6 +2,8 @@
 
 This is an AI model which is built on an image dataset of F1 cars mosltly from the 2020 season, but also  including older images for teams such as Mercedes, Ferrari and Red Bull
 
+## Explanation of the models code 
+
 
 ## Classes of the model
 
